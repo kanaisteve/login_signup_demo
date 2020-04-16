@@ -1,6 +1,6 @@
 # loginsignuptemp20
 
-Flutter login signup demo
+Flutter login signup demo. This application demonstrate how to build a simple todo-list app with a login and sign up page.
 
 
 <p float="left">
