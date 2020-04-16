@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "118348681929",
+    "firebase_url": "https://login-crud-ce7fa.firebaseio.com",
+    "project_id": "login-crud-ce7fa",
+    "storage_bucket": "login-crud-ce7fa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118348681929:android:2210f3c8d89346812af318",
+        "android_client_info": {
+          "package_name": "com.kanaisteve.loginsignuptemp20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118348681929-nhaaf4ls4pr066uegcgt8cmn21gblv4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqOVFUSjdgzVBJIVvLQCn4jQiqJAgrrVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118348681929-nhaaf4ls4pr066uegcgt8cmn21gblv4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
